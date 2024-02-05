@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SD2.iml" filepath="$PROJECT_DIR$/SD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionsMaps/ex1/ex1.iml" filepath="$PROJECT_DIR$/collectionsMaps/ex1/ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionsMaps/ex2/ex2.iml" filepath="$PROJECT_DIR$/collectionsMaps/ex2/ex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionsMaps/ex3/ex3.iml" filepath="$PROJECT_DIR$/collectionsMaps/ex3/ex3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionsMaps/ex4/ex4.iml" filepath="$PROJECT_DIR$/collectionsMaps/ex4/ex4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionsMaps/ex5/ex5.iml" filepath="$PROJECT_DIR$/collectionsMaps/ex5/ex5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionsMaps/ex6/ex6.iml" filepath="$PROJECT_DIR$/collectionsMaps/ex6/ex6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionsMaps/ex7/ex7.iml" filepath="$PROJECT_DIR$/collectionsMaps/ex7/ex7.iml" />
+    </modules>
+  </component>
+</project>
